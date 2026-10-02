@@ -3,7 +3,7 @@
 An empirical comparison of deterministic vs. stochastic exploration in stationary Multi-Armed Bandits. 
 
 ## 📄 Read the Paper
-[Download the full technical report (PDF)](./Systematic_ε_Greedy__A_Deterministic_Periodic_Exploration_Schedule_for_Multi_Armed_Bandits(1).pdf)
+[Download the full technical report (PDF)](./Systematic_ε_Greedy__A_Deterministic_Periodic_Exploration_Schedule_for_Multi_Armed_Bandits (1).pdf)
 
 ## 🧠 Abstract
 The standard ε-greedy implementation explores randomly, making the timing and total count of exploratory pulls variable. This project proposes **Systematic ε-greedy**, a deterministic alternative that explores on a fixed clock (every $S = \lfloor 1/\epsilon \rfloor$ steps), alongside a phase-randomized extension. 
