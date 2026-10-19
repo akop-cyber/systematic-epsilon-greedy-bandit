@@ -13,4 +13,4 @@ Evaluated on a stationary 10-armed Gaussian testbed ($\sigma \in \{0.1, 1, 2\}$,
 ## 🚀 How to Run
 ```bash
 pip install numpy matplotlib
-python bandit_final.py
+python app.py
